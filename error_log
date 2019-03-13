@@ -1,0 +1,359 @@
+[14-Sep-2018 03:27:05 Asia/Karachi] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'softnows_anas'@'localhost' to database 'softnows_android_api' in /home/softnows/fuck.softnowsolutions.com/Portal2/config/db.php on line 9
+[14-Sep-2018 03:29:14 Asia/Karachi] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'softnows_anas'@'localhost' to database 'softnows_android_api' in /home/softnows/fuck.softnowsolutions.com/Portal2/config/db.php on line 9
+[14-Sep-2018 03:29:14 Asia/Karachi] PHP Fatal error:  Call to undefined function error() in /home/softnows/fuck.softnowsolutions.com/Portal2/config/db.php on line 11
+[14-Sep-2018 00:01:39 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 8
+[14-Sep-2018 00:01:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 13
+[14-Sep-2018 00:01:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 14
+[14-Sep-2018 00:13:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 189
+[14-Sep-2018 00:14:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 189
+[14-Sep-2018 05:16:46 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:2) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 103
+[14-Sep-2018 05:16:46 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:2) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 110
+[14-Sep-2018 00:17:51 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 8
+[14-Sep-2018 00:17:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 13
+[14-Sep-2018 00:17:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 14
+[14-Sep-2018 06:07:11 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 101
+[14-Sep-2018 06:07:11 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 108
+[14-Sep-2018 16:01:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 188
+[14-Sep-2018 21:05:09 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 101
+[14-Sep-2018 21:05:09 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 101
+[14-Sep-2018 21:05:09 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 108
+[14-Sep-2018 21:07:09 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 101
+[14-Sep-2018 21:07:09 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 101
+[14-Sep-2018 21:07:09 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 108
+[14-Sep-2018 21:12:52 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 101
+[14-Sep-2018 21:12:52 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 101
+[14-Sep-2018 21:12:52 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 108
+[14-Sep-2018 21:14:50 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 101
+[14-Sep-2018 21:14:50 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 101
+[14-Sep-2018 21:14:50 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 108
+[14-Sep-2018 16:16:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 157
+[14-Sep-2018 16:16:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 157
+[14-Sep-2018 21:24:49 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 101
+[14-Sep-2018 21:24:49 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 101
+[14-Sep-2018 21:24:49 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 108
+[14-Sep-2018 21:27:38 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 101
+[14-Sep-2018 21:27:38 Asia/Karachi] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 101
+[14-Sep-2018 21:27:38 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:73) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 108
+[14-Sep-2018 16:37:55 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:72) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 100
+[14-Sep-2018 16:37:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:72) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 100
+[14-Sep-2018 16:37:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:72) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 107
+[14-Sep-2018 16:38:11 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:72) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 100
+[14-Sep-2018 16:38:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:72) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 100
+[14-Sep-2018 16:38:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:72) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 107
+[14-Sep-2018 16:38:52 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:72) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 100
+[14-Sep-2018 16:38:52 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:72) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 100
+[14-Sep-2018 16:38:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/softnows/fuck.softnowsolutions.com/Portal2/index.php:72) in /home/softnows/fuck.softnowsolutions.com/Portal2/index.php on line 107
+[15-Sep-2018 01:19:14 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/softnows/fuck.softnowsolutions.com/Portal2/config/menu.php on line 66
+[15-Sep-2018 01:19:36 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/softnows/fuck.softnowsolutions.com/Portal2/config/menu.php on line 66
+[20-Sep-2018 06:10:53 Asia/Karachi] PHP Warning:  mail() has been disabled for security reasons in /home/softnows/fuck.softnowsolutions.com/Portal2/register.php on line 36
+[20-Sep-2018 06:16:34 Asia/Karachi] PHP Warning:  mail() has been disabled for security reasons in /home/softnows/fuck.softnowsolutions.com/Portal2/register.php on line 36
+[20-Sep-2018 06:20:14 Asia/Karachi] PHP Warning:  mail() has been disabled for security reasons in /home/softnows/fuck.softnowsolutions.com/Portal2/register.php on line 36
+[20-Sep-2018 06:20:54 Asia/Karachi] PHP Warning:  mail() has been disabled for security reasons in /home/softnows/fuck.softnowsolutions.com/Portal2/register.php on line 36
+[20-Sep-2018 06:24:24 Asia/Karachi] PHP Warning:  mail() has been disabled for security reasons in /home/softnows/fuck.softnowsolutions.com/Portal2/register.php on line 36
+[20-Sep-2018 06:27:34 Asia/Karachi] PHP Warning:  mail() has been disabled for security reasons in /home/softnows/fuck.softnowsolutions.com/Portal2/register.php on line 50
+[20-Sep-2018 06:28:52 Asia/Karachi] PHP Warning:  mail() has been disabled for security reasons in /home/softnows/fuck.softnowsolutions.com/Portal2/register.php on line 50
+[20-Sep-2018 02:19:06 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 5
+[20-Sep-2018 02:23:57 UTC] PHP Warning:  include(QrLib/qrlib.php): failed to open stream: No such file or directory in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 128
+[20-Sep-2018 02:23:57 UTC] PHP Warning:  include(QrLib/qrlib.php): failed to open stream: No such file or directory in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 128
+[20-Sep-2018 02:23:57 UTC] PHP Warning:  include(): Failed opening 'QrLib/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 128
+[20-Sep-2018 02:23:57 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 129
+[20-Sep-2018 02:23:57 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 129
+[20-Sep-2018 02:23:57 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 129
+[20-Sep-2018 02:24:01 UTC] PHP Warning:  include(QrLib/qrlib.php): failed to open stream: No such file or directory in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 128
+[20-Sep-2018 02:24:01 UTC] PHP Warning:  include(QrLib/qrlib.php): failed to open stream: No such file or directory in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 128
+[20-Sep-2018 02:24:01 UTC] PHP Warning:  include(): Failed opening 'QrLib/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 128
+[20-Sep-2018 02:24:01 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 129
+[20-Sep-2018 02:24:01 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 129
+[20-Sep-2018 02:24:01 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 129
+[20-Sep-2018 02:37:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 390
+[20-Sep-2018 02:37:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 390
+[20-Sep-2018 02:37:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 390
+[20-Sep-2018 02:37:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 390
+[20-Sep-2018 02:39:04 UTC] PHP Fatal error:  Cannot redeclare class Product in /home/softnows/fuck.softnowsolutions.com/Portal2/config/addprod.php on line 2
+[20-Sep-2018 02:39:13 UTC] PHP Fatal error:  Cannot redeclare class Product in /home/softnows/fuck.softnowsolutions.com/Portal2/config/addprod.php on line 2
+[20-Sep-2018 02:39:51 UTC] PHP Fatal error:  Cannot redeclare class Product in /home/softnows/fuck.softnowsolutions.com/Portal2/config/addprod.php on line 2
+[20-Sep-2018 02:40:08 UTC] PHP Fatal error:  Cannot redeclare class Product in /home/softnows/fuck.softnowsolutions.com/Portal2/config/addprod.php on line 2
+[20-Sep-2018 02:41:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 367
+[20-Sep-2018 02:41:18 UTC] PHP Fatal error:  Cannot redeclare class Product in /home/softnows/fuck.softnowsolutions.com/Portal2/config/addprod.php on line 2
+[20-Sep-2018 02:41:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 362
+[20-Sep-2018 02:41:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 367
+[20-Sep-2018 02:42:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 367
+[20-Sep-2018 02:42:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 361
+[20-Sep-2018 02:42:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 361
+[20-Sep-2018 02:42:33 UTC] PHP Fatal error:  Cannot redeclare class Product in /home/softnows/fuck.softnowsolutions.com/Portal2/config/addprod.php on line 2
+[20-Sep-2018 02:44:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 372
+[20-Sep-2018 02:44:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 334
+[20-Sep-2018 02:45:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 306
+[20-Sep-2018 03:28:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/softnows/fuck.softnowsolutions.com/Portal2/addbrand.php on line 288
+[20-Sep-2018 10:19:23 Asia/Karachi] PHP Fatal error:  Call to undefined function alert() in /home/softnows/fuck.softnowsolutions.com/Portal2/addbrand.php on line 31
+[20-Sep-2018 10:19:54 Asia/Karachi] PHP Fatal error:  Call to undefined function alert() in /home/softnows/fuck.softnowsolutions.com/Portal2/addbrand.php on line 31
+[20-Sep-2018 10:21:05 Asia/Karachi] PHP Fatal error:  Call to undefined function alert() in /home/softnows/fuck.softnowsolutions.com/Portal2/addbrand.php on line 31
+[20-Sep-2018 11:02:27 Asia/Karachi] PHP Warning:  mail() has been disabled for security reasons in /home/softnows/fuck.softnowsolutions.com/Portal2/register.php on line 36
+[20-Sep-2018 11:04:13 Asia/Karachi] PHP Fatal error:  Call to undefined function alert() in /home/softnows/fuck.softnowsolutions.com/Portal2/addbrand.php on line 40
+[20-Sep-2018 11:05:49 Asia/Karachi] PHP Fatal error:  Call to undefined function alert() in /home/softnows/fuck.softnowsolutions.com/Portal2/addbrand.php on line 40
+[20-Sep-2018 11:16:19 Asia/Karachi] PHP Warning:  mail() has been disabled for security reasons in /home/softnows/fuck.softnowsolutions.com/Portal2/addbrand.php on line 47
+[20-Sep-2018 21:47:29 UTC] PHP Fatal error:  Call to a member function query() on null in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 36
+[20-Sep-2018 21:49:22 UTC] PHP Fatal error:  Call to a member function query() on null in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 36
+[20-Sep-2018 21:56:56 UTC] PHP Fatal error:  Call to a member function query() on null in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 37
+[20-Sep-2018 21:57:37 UTC] PHP Fatal error:  Call to a member function query() on null in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 37
+[20-Sep-2018 22:05:54 UTC] PHP Fatal error:  Call to a member function query() on null in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 37
+[20-Sep-2018 22:08:05 UTC] PHP Fatal error:  Call to a member function query() on null in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 37
+[20-Sep-2018 22:13:44 UTC] PHP Fatal error:  Call to a member function query() on null in /home/softnows/fuck.softnowsolutions.com/Portal2/addproducts.php on line 37
+[21-Sep-2018 21:38:42 Asia/Karachi] PHP Warning:  mail() has been disabled for security reasons in /home/softnows/fuck.softnowsolutions.com/Portal2/register.php on line 36
+[22-Sep-2018 01:40:19 Asia/Karachi] PHP Warning:  mysqli::query(): Empty query in /home/softnows/fuck.softnowsolutions.com/Portal2/addbrand.php on line 33
+[22-Sep-2018 01:43:23 Asia/Karachi] PHP Warning:  mysqli::query(): Empty query in /home/softnows/fuck.softnowsolutions.com/Portal2/addbrand.php on line 33
+[22-Sep-2018 01:43:42 Asia/Karachi] PHP Warning:  mysqli::query(): Empty query in /home/softnows/fuck.softnowsolutions.com/Portal2/addbrand.php on line 33
+[22-Sep-2018 01:45:30 Asia/Karachi] PHP Warning:  mysqli::query(): Empty query in /home/softnows/fuck.softnowsolutions.com/Portal2/addbrand.php on line 33
+[22-Sep-2018 01:58:12 Asia/Karachi] PHP Warning:  mail() has been disabled for security reasons in /home/softnows/fuck.softnowsolutions.com/Portal2/addbrand.php on line 48
+[21-Sep-2018 21:05:33 UTC] PHP Parse error:  syntax error, unexpected 'Content' (T_STRING) in /home/softnows/fuck.softnowsolutions.com/Portal2/maile.php on line 7
+[21-Sep-2018 21:06:57 UTC] PHP Parse error:  syntax error, unexpected 'padding' (T_STRING) in /home/softnows/fuck.softnowsolutions.com/Portal2/maile.php on line 11
+[21-Sep-2018 21:08:15 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/softnows/fuck.softnowsolutions.com/Portal2/maile.php on line 15
+[21-Sep-2018 21:08:25 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/softnows/fuck.softnowsolutions.com/Portal2/maile.php on line 15
+[22-Sep-2018 02:30:50 Asia/Karachi] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'maknam_anas'@'localhost' to database 'maknam_halal_product' in /home/maknam/public_html/Portal2/index.php on line 10
+[21-Sep-2018 20:39:53 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/viewprofile.php on line 493
+[22-Sep-2018 22:23:26 Asia/Karachi] PHP Warning:  mysqli::query(): Empty query in /home/maknam/public_html/Portal2/viewusers.php on line 144
+[26-Sep-2018 02:40:12 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/viewcert.php on line 252
+[26-Sep-2018 09:30:16 America/New_York] PHP Parse error:  syntax error, unexpected 'viewbrand' (T_STRING) in /home/maknam/public_html/Portal2/viewcerts.php on line 278
+[26-Sep-2018 09:30:19 America/New_York] PHP Parse error:  syntax error, unexpected 'viewbrand' (T_STRING) in /home/maknam/public_html/Portal2/viewcerts.php on line 278
+[26-Sep-2018 09:30:20 America/New_York] PHP Parse error:  syntax error, unexpected 'viewbrand' (T_STRING) in /home/maknam/public_html/Portal2/viewcerts.php on line 278
+[26-Sep-2018 09:30:39 America/New_York] PHP Parse error:  syntax error, unexpected 'viewbrand' (T_STRING) in /home/maknam/public_html/Portal2/viewcerts.php on line 278
+[26-Sep-2018 09:30:50 America/New_York] PHP Parse error:  syntax error, unexpected 'viewbrand' (T_STRING) in /home/maknam/public_html/Portal2/viewcerts.php on line 278
+[26-Sep-2018 09:31:01 America/New_York] PHP Parse error:  syntax error, unexpected 'viewbrand' (T_STRING) in /home/maknam/public_html/Portal2/viewcerts.php on line 278
+[26-Sep-2018 11:20:08 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/viewbrand.php on line 365
+[26-Sep-2018 12:13:29 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/addulema.php on line 323
+[26-Sep-2018 12:14:22 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/addulema.php on line 323
+[27-Sep-2018 00:06:02 Asia/Karachi] PHP Fatal error:  Call to undefined function limit_words() in /home/maknam/public_html/Portal2/fatwalist.php on line 159
+[27-Sep-2018 00:06:13 Asia/Karachi] PHP Fatal error:  Call to undefined function limit_words() in /home/maknam/public_html/Portal2/fatwalist.php on line 159
+[27-Sep-2018 00:07:23 Asia/Karachi] PHP Fatal error:  Call to undefined function limit_words() in /home/maknam/public_html/Portal2/fatwalist.php on line 159
+[27-Sep-2018 15:45:08 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/maknam/public_html/Portal2/profile.php on line 24
+[27-Sep-2018 15:46:34 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/maknam/public_html/Portal2/profile.php on line 29
+[28-Sep-2018 01:54:28 Asia/Karachi] PHP Warning:  mysqli::query(): Empty query in /home/maknam/public_html/Portal2/viewcerts.php on line 143
+[28-Sep-2018 01:54:39 Asia/Karachi] PHP Warning:  mysqli::query(): Empty query in /home/maknam/public_html/Portal2/viewcerts.php on line 143
+[28-Sep-2018 03:40:01 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/viewbrand.php on line 520
+[28-Sep-2018 03:46:38 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/viewbrand.php on line 520
+[28-Sep-2018 03:46:53 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/viewbrand.php on line 520
+[28-Sep-2018 03:48:21 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/viewbrand.php on line 473
+[28-Sep-2018 11:22:08 America/New_York] PHP Parse error:  syntax error, unexpected '$u' (T_VARIABLE) in /home/maknam/public_html/Portal2/viewbrand.php on line 137
+[28-Sep-2018 11:33:21 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/viewproduct.php on line 482
+[28-Sep-2018 21:51:41 Asia/Karachi] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/maknam/public_html/Portal2/viewproduct.php on line 139
+[29-Sep-2018 15:05:59 Asia/Karachi] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/maknam/public_html/Portal2/dashboard.php on line 334
+[29-Sep-2018 15:06:06 Asia/Karachi] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/maknam/public_html/Portal2/dashboard.php on line 334
+[29-Sep-2018 15:11:59 Asia/Karachi] PHP Fatal error:  Call to undefined method mysqli_result::mysqli_fetch_assoc() in /home/maknam/public_html/Portal2/dashboard.php on line 332
+[29-Sep-2018 06:13:30 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/maknam/public_html/Portal2/dashboard.php on line 337
+[29-Sep-2018 15:16:22 Asia/Karachi] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/maknam/public_html/Portal2/dashboard.php on line 338
+[29-Sep-2018 15:16:22 Asia/Karachi] PHP Fatal error:  Call to a member function format() on boolean in /home/maknam/public_html/Portal2/dashboard.php on line 339
+[29-Sep-2018 15:20:29 Asia/Karachi] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/maknam/public_html/Portal2/dashboard.php on line 338
+[29-Sep-2018 15:21:33 Asia/Karachi] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/maknam/public_html/Portal2/dashboard.php on line 338
+[29-Sep-2018 15:21:33 Asia/Karachi] PHP Fatal error:  Call to a member function format() on boolean in /home/maknam/public_html/Portal2/dashboard.php on line 339
+[29-Sep-2018 15:24:10 Asia/Karachi] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, boolean given in /home/maknam/public_html/Portal2/dashboard.php on line 338
+[29-Sep-2018 15:24:10 Asia/Karachi] PHP Fatal error:  Call to a member function format() on boolean in /home/maknam/public_html/Portal2/dashboard.php on line 339
+[29-Sep-2018 15:24:19 Asia/Karachi] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, boolean given in /home/maknam/public_html/Portal2/dashboard.php on line 338
+[29-Sep-2018 15:24:19 Asia/Karachi] PHP Fatal error:  Call to a member function format() on boolean in /home/maknam/public_html/Portal2/dashboard.php on line 339
+[29-Sep-2018 07:10:08 America/New_York] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/maknam/public_html/Portal2/dashboard.php on line 360
+[29-Sep-2018 16:40:02 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/dashboard.php on line 689
+[30-Sep-2018 17:05:24 America/New_York] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/maknam/public_html/Portal2/dashboard.php on line 417
+[01-Oct-2018 14:25:44 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/maknam/public_html/Portal2/viewproduct.php on line 513
+[01-Oct-2018 15:02:57 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/maknam/public_html/Portal2/viewproduct.php on line 431
+[02-Oct-2018 12:53:52 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/viewquestion.php on line 345
+[02-Oct-2018 12:56:13 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/viewquestion.php on line 326
+[02-Oct-2018 12:57:26 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/viewquestion.php on line 326
+[02-Oct-2018 13:02:54 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/viewquestion.php on line 346
+[02-Oct-2018 13:13:21 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/viewquestion.php on line 346
+[03-Oct-2018 22:06:06 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 489
+[03-Oct-2018 22:06:06 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 554
+[03-Oct-2018 22:06:06 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 651
+[03-Oct-2018 22:06:06 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 731
+[03-Oct-2018 22:07:23 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 489
+[03-Oct-2018 22:07:23 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 554
+[03-Oct-2018 22:07:23 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 651
+[03-Oct-2018 22:07:23 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 731
+[03-Oct-2018 22:08:57 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, string given in /home/maknam/public_html/Portal2/dashboard.php on line 459
+[03-Oct-2018 22:08:57 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 489
+[03-Oct-2018 22:08:57 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 554
+[03-Oct-2018 22:08:57 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 651
+[03-Oct-2018 22:08:57 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 731
+[03-Oct-2018 23:47:35 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, string given in /home/maknam/public_html/Portal2/dashboard.php on line 459
+[03-Oct-2018 23:47:35 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 489
+[03-Oct-2018 23:47:35 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 554
+[03-Oct-2018 23:47:35 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 651
+[03-Oct-2018 23:47:35 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 731
+[04-Oct-2018 23:43:52 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, string given in /home/maknam/public_html/Portal2/dashboard.php on line 459
+[04-Oct-2018 23:43:52 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 489
+[04-Oct-2018 23:43:52 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 554
+[04-Oct-2018 23:43:52 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 651
+[04-Oct-2018 23:43:52 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 731
+[12-Oct-2018 08:53:40 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 37
+[12-Oct-2018 08:53:40 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 08:53:40 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 08:53:40 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 08:53:40 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 08:53:40 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 41
+[12-Oct-2018 08:53:40 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 43
+[12-Oct-2018 08:53:40 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 08:53:40 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 08:53:40 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 08:53:40 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 08:53:40 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 08:53:40 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:02:23 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 37
+[12-Oct-2018 09:02:23 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:02:23 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:02:23 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:02:23 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:02:23 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 41
+[12-Oct-2018 09:02:23 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 43
+[12-Oct-2018 09:02:23 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:02:23 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:02:23 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:02:23 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:02:23 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:02:23 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:03:00 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 37
+[12-Oct-2018 09:03:00 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:03:00 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:03:00 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:03:00 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:03:00 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 41
+[12-Oct-2018 09:03:00 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 43
+[12-Oct-2018 09:03:00 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:03:00 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:03:00 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:03:00 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:03:00 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:03:00 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:03:06 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 37
+[12-Oct-2018 09:03:06 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:03:06 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:03:06 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:03:06 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:03:06 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 41
+[12-Oct-2018 09:03:06 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 43
+[12-Oct-2018 09:03:06 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:03:06 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:03:06 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:03:06 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:03:06 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:03:06 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:03:59 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 37
+[12-Oct-2018 09:03:59 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:03:59 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:03:59 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:03:59 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:03:59 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 41
+[12-Oct-2018 09:03:59 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 43
+[12-Oct-2018 09:03:59 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:03:59 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:03:59 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:03:59 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:03:59 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:03:59 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:04:10 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 37
+[12-Oct-2018 09:04:10 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:04:10 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:04:10 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:04:10 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:04:10 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 41
+[12-Oct-2018 09:04:10 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 43
+[12-Oct-2018 09:04:10 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:04:10 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:04:10 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:04:10 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:04:10 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:04:10 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:04:53 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 37
+[12-Oct-2018 09:04:53 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:04:53 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:04:53 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:04:53 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:04:53 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 41
+[12-Oct-2018 09:04:53 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 43
+[12-Oct-2018 09:04:53 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:04:53 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:04:53 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:04:53 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:04:53 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:04:53 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:05:35 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 37
+[12-Oct-2018 09:05:35 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:05:35 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:05:35 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:05:35 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:05:35 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 41
+[12-Oct-2018 09:05:35 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 43
+[12-Oct-2018 09:05:35 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:05:35 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:05:35 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:05:35 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:05:35 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:05:35 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:08:09 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 37
+[12-Oct-2018 09:08:09 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:08:09 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:08:09 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:08:09 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:08:09 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 41
+[12-Oct-2018 09:08:09 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 43
+[12-Oct-2018 09:08:09 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:08:09 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:08:09 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:08:09 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:08:09 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:08:09 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:08:52 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 37
+[12-Oct-2018 09:08:52 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:08:52 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:08:52 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:08:52 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:08:52 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 41
+[12-Oct-2018 09:08:52 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 43
+[12-Oct-2018 09:08:52 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:08:52 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:08:52 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:08:52 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:08:52 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:08:52 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:10:31 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 37
+[12-Oct-2018 09:10:31 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:10:31 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 38
+[12-Oct-2018 09:10:31 America/New_York] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:10:31 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/maknam/public_html/Portal2/rating.php on line 40
+[12-Oct-2018 09:10:31 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 41
+[12-Oct-2018 09:10:31 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/maknam/public_html/Portal2/rating.php on line 43
+[12-Oct-2018 09:10:31 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:10:31 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 50
+[12-Oct-2018 09:10:31 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:10:31 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 51
+[12-Oct-2018 09:10:31 America/New_York] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home/maknam/public_html/Portal2/rating.php on line 52
+[12-Oct-2018 09:10:31 America/New_York] PHP Warning:  Division by zero in /home/maknam/public_html/Portal2/rating.php on line 52
+[13-Oct-2018 17:36:26 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, string given in /home/maknam/public_html/Portal2/dashboard.php on line 459
+[13-Oct-2018 17:36:26 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 489
+[13-Oct-2018 17:36:26 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 554
+[13-Oct-2018 17:36:26 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 651
+[13-Oct-2018 17:36:26 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 731
+[13-Oct-2018 17:44:08 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, string given in /home/maknam/public_html/Portal2/dashboard.php on line 459
+[13-Oct-2018 17:44:08 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 489
+[13-Oct-2018 17:44:08 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 554
+[13-Oct-2018 17:44:08 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 651
+[13-Oct-2018 17:44:08 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 731
+[13-Oct-2018 17:45:07 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, string given in /home/maknam/public_html/Portal2/dashboard.php on line 459
+[13-Oct-2018 17:45:07 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 489
+[13-Oct-2018 17:45:07 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 554
+[13-Oct-2018 17:45:07 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 651
+[13-Oct-2018 17:45:07 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 731
+[13-Oct-2018 17:46:53 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, string given in /home/maknam/public_html/Portal2/dashboard.php on line 459
+[13-Oct-2018 17:46:53 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 489
+[13-Oct-2018 17:46:53 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 651
+[13-Oct-2018 17:46:53 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 731
+[13-Oct-2018 17:47:42 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, string given in /home/maknam/public_html/Portal2/dashboard.php on line 459
+[13-Oct-2018 17:47:42 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 489
+[13-Oct-2018 17:47:42 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 651
+[13-Oct-2018 17:47:42 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 731
+[13-Oct-2018 17:47:45 Asia/Karachi] PHP Warning:  mysqli_insert_id() expects parameter 1 to be mysqli, string given in /home/maknam/public_html/Portal2/dashboard.php on line 459
+[13-Oct-2018 17:47:45 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 489
+[13-Oct-2018 17:47:45 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 651
+[13-Oct-2018 17:47:45 Asia/Karachi] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/maknam/public_html/Portal2/dashboard.php on line 731
+[17-Nov-2018 04:10:55 Asia/Karachi] PHP Warning:  hash() expects at least 2 parameters, 1 given in /home/maknam/public_html/Portal2/index.php on line 29
+[26-Nov-2018 10:56:08 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/config/menu.php on line 175
+[26-Nov-2018 10:56:23 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/maknam/public_html/Portal2/config/menu.php on line 175
+[12-Dec-2018 18:48:06 Asia/Karachi] PHP Fatal error:  Call to undefined function limit_words() in /home/maknam/public_html/Portal2/brandrequest.php on line 159
+[12-Dec-2018 08:52:02 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/maknam/public_html/Portal2/brandrequest.php on line 221
